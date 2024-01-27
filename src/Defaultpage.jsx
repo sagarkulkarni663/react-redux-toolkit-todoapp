@@ -25,7 +25,7 @@ const Defaultpage = () => {
       >
         <Typography variant="h4">
           Developed using{" "}
-          <a href="https://redux-toolkit.js.org/" target="_blank">
+          <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
             Redux-Toolkit
           </a>
         </Typography>
